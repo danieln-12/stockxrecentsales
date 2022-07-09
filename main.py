@@ -1,7 +1,5 @@
 import requests
 import json
-from bs4 import BeautifulSoup
-from columnar import columnar
 import math
 
 
